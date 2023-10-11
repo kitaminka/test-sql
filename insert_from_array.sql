@@ -1,6 +1,6 @@
 DO $$
 DECLARE
-  companies text[]:= array['Accurate Armory LLC', 'Arctiier Armstech', 'Adcor Defense', 'Arsenal, Inc', 'Izhmekh',
+  companies text[]:= array['Folik', 'Arctiier Armstech', 'Adcor Defense', 'Arsenal, Inc', 'Izhmekh',
 						  'BPI Outdoors', 'Beretta'];
   company text;
 BEGIN
